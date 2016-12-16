@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\John\AndroidStudioProjects\ConnectivityApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\John\AndroidStudioProjects\ConnectivityApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.3_585629cee55bf5c6b166dc19e804a13308a09494\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\John\AndroidStudioProjects\ConnectivityApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="050eb24f9ae957383f4ec67579a2887dca6766ee">
+        <dex dex="C:\Users\John\AndroidStudioProjects\ConnectivityApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_09f2bb38d62a6fd41cc90e77343de772ae422110\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\John\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\John\AndroidStudioProjects\ConnectivityApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.3_08128568db8a4a67d0fd88bfd1c295949e4f30f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\John\AndroidStudioProjects\ConnectivityApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6b1ba281f4ec5691f62e46a18b5a57f7861c42c9">
+        <dex dex="C:\Users\John\AndroidStudioProjects\ConnectivityApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b5b4d40133838696fa9519fd8f20259677f4ec2d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\John\AndroidStudioProjects\ConnectivityApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\John\AndroidStudioProjects\ConnectivityApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-21.0.3_4a98547fb23373afe05ba343aa08addbbed76a33\classes.dex" />
+    </item>
+
+</items>

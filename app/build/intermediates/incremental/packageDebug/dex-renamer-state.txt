@@ -1,0 +1,7 @@
+#Fri Dec 16 14:18:36 EET 2016
+base.0=C\:\\Users\\John\\AndroidStudioProjects\\ConnectivityApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_09f2bb38d62a6fd41cc90e77343de772ae422110
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\John\\AndroidStudioProjects\\ConnectivityApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b5b4d40133838696fa9519fd8f20259677f4ec2d\\classes.dex
+base.1=C\:\\Users\\John\\AndroidStudioProjects\\ConnectivityApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b5b4d40133838696fa9519fd8f20259677f4ec2d
+file.0=C\:\\Users\\John\\AndroidStudioProjects\\ConnectivityApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_09f2bb38d62a6fd41cc90e77343de772ae422110\\classes.dex
